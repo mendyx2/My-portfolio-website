@@ -290,7 +290,7 @@
   /* ---------- Hero avatar (developer portrait) ---------- */
   const heroAvatarImg = $('#heroAvatarImg');
   if (heroAvatarImg) {
-    setImg(heroAvatarImg, 'images/profile.png', 'Wendy Atobor — OI.Dev', 'linear-gradient(135deg, #7C5CFC 0%, #00D9FF 100%)', 'images/profile.jpg');
+    setImg(heroAvatarImg, 'images/profile.png', 'Wendy Atobor — OI.Dev', 'linear-gradient(135deg, #7C5CFC 0%, #00D9FF 100%)', 'images/profile.png');
   }
 
   /* ---------- About: behind-the-scenes photo strip ---------- */
