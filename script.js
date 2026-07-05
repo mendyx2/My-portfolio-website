@@ -432,6 +432,17 @@
       image: 'images/projects/Web & AI projects/wildflour-bakery.png',
       liveUrl: 'https://wildflour-bakery-website.vercel.app',
     },
+     {
+      id: 'Helix Agency',
+      title: 'Helix Agency',
+      tagline: 'A revenue systems agency (CRM-first, legal secondary) Website',
+      desc: 'Helix — agency marketing site. Production-grade Next.js 14 site for a fictional CRM/revenue-systems agency. SEO built in from day one: metadata API, JSON-LD (Organization, Service, FAQPage, BreadcrumbList), sitemap.ts, robots.ts, self-hosted next/font for zero CLS, plus Vercel & Netlify deploy configs from the same codebase. ',
+      platform: 'web',
+      year: 2026,
+      tags: ['HTML', 'CSS', 'Nextjs', 'Typescript', 'Tailwind'],
+      image: 'images/projects/Web & AI projects/Helix-dark-hero.png',
+      liveUrl: 'https://helix-agency-eta.vercel.app/',
+    },
     {
       id: 'AZ-HIRE',
       title: 'AZ-HIRE Landing Page',
